@@ -3,7 +3,7 @@
 	text-align: center;
 }
 
-ul {
+.nav ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -11,11 +11,11 @@ ul {
 	background-color: #333;
 }
 
-li {
+.nav li {
 	float: left;
 }
 
-li a {
+.nav li a {
 	display: block;
 	color: white;
 	text-align: center;
@@ -24,7 +24,7 @@ li a {
     border-radius: 10px;
 }
 
-li a:hover {
+.nav li a:hover {
 	background-color: #111;
 }
 
@@ -50,115 +50,11 @@ body {
 	font-weight: bold;
 }
 
-.devs > ul > li {
-    display: inline-block;
-    padding: 10px;
-    margin: 5px;
-    background: rgba(0, 0, 0, 0.3);
-    -webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -ms-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
-    border-radius: 150px;
-    z-index: 800;
-}
-.devs > ul > li:hover {
-    background: rgba(100, 100, 100, 0.3);
-}
-.devs ul {
-    text-align: center;
-    z-index: 101;
-}
-.devs li a {
-    color: rgba(255, 255, 255, 0.5);
-    font-size: 1.2em;
-    z-index: 102;
-}
-.rank {
-    font-size: 2em;
-    text-align: center;
-    z-index: 103;
+#headerh1s {
+	color: #696969;
+	text-align: center;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-}
-body {
-    margin-bottom: 50px;
-    background: #222 url('../images/staff-img.png') center fixed;
-    color: #ccc;
-}
-.nav-wrapper {
-    background: rgba(0, 0, 0, 0.2);
-}
-a {
-    color: rgb(200, 200, 200);
-}
 .devs {
-    width: 85%;
-    margin: 0 auto;
-    background: rgba(100, 100, 100, 0.1);
-    padding: 15px;
-    border-radius: 10px;
-    text-align: center;
-}
-.devs li {
-    display: inline-block;
-    padding: 10px;
-    background: rgba(100, 100, 100, 0.2);
-    margin: 5px;
-    border-radius: 50px;
-    -webkit-transition: all 0.2s ease-in-out;
-    -moz-transition: all 0.2s ease-in-out;
-    -ms-transition: all 0.2s ease-in-out;
-    -o-transition: all 0.2s ease-in-out;
-    transition: all 0.2s ease-in-out;
-}
-.devs li:hover {
-    background: rgba(100,100,100,0.5);
-}
-h2 {
-    font-size: 1.5em;
-    font-family: 'Catamaran', sans-serif;
-}
-#note {
-    text-align: center;
-}
-#note h5 {
-    margin-bottom: -15px;
-}
-#note a {
-    color: rgb(200, 200, 200);
-    font-weight: bold;
-}
-.rank {
-    text-align: center;
-}
-.page-title {
-    text-align: center;
-    font-size: 3.8em;
-    font-weight: 300;
-}
-.brand-logo {
-    font-family: 'Catamaran', sans-serif;
-    font-size: 2em;
-    font-weight: 200;
-}
 
-#note {
-    text-align: center;
-    color: #ccc;
-    border-radius: 150px;
-    padding: 15px;
-    z-index: 1;
-}
-
-#note h5 {
-    margin-bottom: -20px;
-}
-#note a {
-    color: rgb(200, 200, 200);
-    font-weight: bold;
 }
