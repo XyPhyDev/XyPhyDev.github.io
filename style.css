@@ -50,6 +50,37 @@ body {
 	font-weight: bold;
 }
 
+.devs > ul > li {
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+    background: rgba(0, 0, 0, 0.3);
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    border-radius: 150px;
+    z-index: 800;
+}
+.devs > ul > li:hover {
+    background: rgba(100, 100, 100, 0.3);
+}
+.devs ul {
+    text-align: center;
+    z-index: 101;
+}
+.devs li a {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1.2em;
+    z-index: 102;
+}
+.rank {
+    font-size: 2em;
+    text-align: center;
+    z-index: 103;
+}
+
 * {
     margin: 0;
     padding: 0;
