@@ -1,0 +1,49 @@
+#headerh1 {
+	color: #696969;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+    border-radius: 10px;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+body {
+	background-color: #696969;
+}
+
+.container {
+	width: 95%;
+	background-color: lightgray;
+	background: #222 url('https://github.com/TotalFreedom/Website/blob/master/images/cover-2.png?raw=true') center fixed;
+	border-radius: 10px;
+}
+
+.container a {
+	text-decoration: none;
+}
+
+.container p {
+	text-align: center;
+	font-weight: bold;
+}
