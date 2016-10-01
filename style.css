@@ -87,7 +87,7 @@ body {
 }
 body {
     margin-bottom: 50px;
-    background: #222 url('../images/staff-bg.png') center fixed;
+    background: #222 url('../images/staff-img.png') center fixed;
     color: #ccc;
 }
 .nav-wrapper {
@@ -145,4 +145,20 @@ h2 {
     font-family: 'Catamaran', sans-serif;
     font-size: 2em;
     font-weight: 200;
+}
+
+#note {
+    text-align: center;
+    color: #ccc;
+    border-radius: 150px;
+    padding: 15px;
+    z-index: 1;
+}
+
+#note h5 {
+    margin-bottom: -20px;
+}
+#note a {
+    color: rgb(200, 200, 200);
+    font-weight: bold;
 }
