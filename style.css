@@ -65,7 +65,7 @@ body {
 a {
     color: rgb(200, 200, 200);
 }
-.admins {
+.devs {
     width: 85%;
     margin: 0 auto;
     background: rgba(100, 100, 100, 0.1);
@@ -73,7 +73,7 @@ a {
     border-radius: 10px;
     text-align: center;
 }
-.admins li {
+.devs li {
     display: inline-block;
     padding: 10px;
     background: rgba(100, 100, 100, 0.2);
@@ -85,7 +85,7 @@ a {
     -o-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
 }
-.admins li:hover {
+.devs li:hover {
     background: rgba(100,100,100,0.5);
 }
 h2 {
@@ -115,4 +115,3 @@ h2 {
     font-size: 2em;
     font-weight: 200;
 }
-
