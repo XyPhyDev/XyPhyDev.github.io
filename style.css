@@ -55,6 +55,10 @@ body {
 	text-align: center;
 }
 
+.devs {
+	width:50%;
+}
+
 .devs ul {
 	list-style-type: none;
 	margin: 0;
