@@ -85,3 +85,7 @@ body {
 .devs li a:hover {
 	background-color: #111;
 }
+
+.devs li img {
+	width: 50%;
+}
