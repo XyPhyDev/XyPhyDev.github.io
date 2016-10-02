@@ -84,6 +84,14 @@ body {
 	height: 113px;
 }
 
+.head-icon {
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-right: 5px;
+    border-radius: 50%;
+}
+
 .devs li a {
 	display: block;
 	color: white;
