@@ -53,6 +53,7 @@ body {
 #headerh1s {
 	color: black;
 	width: 50%;
+	margin: 0 auto;
 	border-radius: 10px;
 	text-align: center;
 }
