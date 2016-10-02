@@ -55,6 +55,11 @@ body {
 	text-align: center;
 }
 
+#rank {
+	color: black;
+	text-align: center;
+}
+
 .devs {
 	width:60%;
 	margin: 0 auto;
