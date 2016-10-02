@@ -80,13 +80,13 @@ body {
 }
 
 .devs li {
-	float: left;
-	height: 140px;
+	float: right;
+	height: 105px;
 }
 
 .head-icon {
     width: 30px;
-    height: 30px;
+    height: 40px;
     float: left;
     margin-right: 5px;
     border-radius: 50%;
@@ -96,8 +96,8 @@ body {
 	display: block;
 	color: white;
 	text-align: center;
-	height: 140px;
-	padding: 55.7px 16.2px;
+	height: auto;
+	padding: 43.3px 16.2px;
 	text-decoration: none;
     border-radius: 10px;
 }
