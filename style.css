@@ -81,7 +81,7 @@ body {
 
 .devs li {
 	float: left;
-	height: 113px;
+	height: 140px;
 }
 
 .head-icon {
@@ -104,7 +104,7 @@ body {
 
 .devs li a:hover {
 	background-color: #111;
-	height: 113px;
+	height: 140px;
 }
 
 .devs li img {
