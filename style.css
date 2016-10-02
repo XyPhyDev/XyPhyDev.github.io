@@ -82,6 +82,10 @@ body {
 	float: left;
 }
 
+.devs li:nth-child(2){
+	background-color:red;
+}
+
 .devs li a {
 	display: block;
 	color: white;
