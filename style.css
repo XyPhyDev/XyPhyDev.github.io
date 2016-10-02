@@ -81,13 +81,14 @@ body {
 
 .devs li {
 	float: left;
-	height: 86px;
+	height: 113px;
 }
 
 .devs li a {
 	display: block;
 	color: white;
 	text-align: center;
+	height: auto;
 	padding: 14px 16px;
 	text-decoration: none;
     border-radius: 10px;
