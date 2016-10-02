@@ -65,7 +65,7 @@ body {
 
 .devs {
 	width:587px;
-	height:86px;
+	height:140px;
 	margin: 0 auto;
 	border-radius: 10px;
 }
@@ -76,7 +76,7 @@ body {
 	padding: 0;
 	overflow: hidden;
 	background-color: #333;
-	border-radius: 10px;
+	border-radius: 150px;
 }
 
 .devs li {
