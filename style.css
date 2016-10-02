@@ -96,15 +96,15 @@ body {
 	display: block;
 	color: white;
 	text-align: center;
-	height: auto;
-	padding: 14px 16px;
+	height: 140px;
+	padding: 55.7px 16.2px;
 	text-decoration: none;
     border-radius: 10px;
 }
 
 .devs li a:hover {
 	background-color: #111;
-	height: 140px;
+	height: 120px;
 }
 
 .devs li img {
