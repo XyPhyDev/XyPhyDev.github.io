@@ -80,6 +80,7 @@ body {
 
 .devs li {
 	float: left;
+	height: 86px;
 }
 
 .devs li:nth-child(2){
@@ -97,6 +98,7 @@ body {
 
 .devs li a:hover {
 	background-color: #111;
+	height: 86px;
 }
 
 .devs li img {
